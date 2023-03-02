@@ -22,7 +22,7 @@ The paper can be freely downloaded from [Researchgate](https://www.researchgate.
 
 ## What's in this Repository
 
-- `expGubmel_core_functions.R`: [Core functions for parameter estimation for Exponentiated Gubmel distribution](https://github.com/raheems/expgumbel/blob/main/expGumbel_core_functions.R)
+- `expGubmel_core_functions.R`: [Core functions for parameter estimation in Exponentiated Gubmel distribution](https://github.com/raheems/expgumbel/blob/main/expGumbel_core_functions.R)
 
   - Random number generation from EG distribution (includes density, distribution, quantilie, hazard functions)
   
