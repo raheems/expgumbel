@@ -8,7 +8,7 @@ The paper can be freely downloaded from [Researchgate](https://www.researchgate.
 
 ## In this Repository
 
-- `expGubmel_core_functions.R`: [Core functions for simulating from Expentiated Gubmel distribution](https://github.com/raheems/expgumbel/blob/main/expGumbel_core_functions.R)
+- `expGubmel_core_functions.R`: [Core functions for simulating from Exponentiated Gubmel distribution](https://github.com/raheems/expgumbel/blob/main/expGumbel_core_functions.R)
 
   - Random number generation from EG distribution (includes density, distribution, quantilie, hazard functions)
   
