@@ -6,7 +6,7 @@ Dey, S., Raheem, E., Mukherjee, S. and Ng, H.K.T., 2017. [Two parameter exponent
 
 The paper can be freely downloaded from [Researchgate](https://www.researchgate.net/profile/Sanku-Dey/publication/313965705_Two_Parameter_Exponentiated_Gumbel_Distribution_Properties_and_Estimation_with_Flood_Data/links/58fb79b6aca2723d79d841bc/Two-Parameter-Exponentiated-Gumbel-Distribution-Properties-and-Estimation-with-Flood-Data.pdf)
 
-## What's Available
+## In this Repository
 
 - `expGubmel_core_functions.R`: [Core functions for simulating from Expentiated Gubmel distribution](https://github.com/raheems/expgumbel/blob/main/expGumbel_core_functions.R)
 
