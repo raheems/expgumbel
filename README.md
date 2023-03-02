@@ -18,6 +18,7 @@ The application of the model is studied using a flood data example. Bootstrap me
 
 Further, confidence regions for the parameters are obtained using likelihood ratio based method. Finally, the concept of return period is used to predict the occurrence of flood in the future.
 
+## Download the paper
 The paper can be freely downloaded from [Researchgate](https://www.researchgate.net/profile/Sanku-Dey/publication/313965705_Two_Parameter_Exponentiated_Gumbel_Distribution_Properties_and_Estimation_with_Flood_Data/links/58fb79b6aca2723d79d841bc/Two-Parameter-Exponentiated-Gumbel-Distribution-Properties-and-Estimation-with-Flood-Data.pdf)
 
 ## What's in this Repository

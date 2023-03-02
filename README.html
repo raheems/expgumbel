@@ -358,18 +358,69 @@ display: none;
 </div>
 
 
-<div id="expgumbel" class="section level1">
-<h1>expgumbel</h1>
-<p>This is a code-repository for the following paper <strong>Two
-parameter exponentiated Gumbel distribution: properties and estimation
-with flood data example</strong></p>
+<div id="expgumbel---two-parameter-exponentiated-gumbel-distribution-properties-and-estimation-with-flood-data-example" class="section level1">
+<h1>expgumbel - Two parameter exponentiated Gumbel distribution:
+properties and estimation with flood data example</h1>
 <p><strong>Maintainer</strong>: Enayetur Raheem</p>
+<p>Dey, S., Raheem, E., Mukherjee, S. and Ng, H.K.T., 2017. <a href="https://www.tandfonline.com/doi/abs/10.1080/09720510.2016.1228261">Two
+parameter exponentiated Gumbel distribution: properties and estimation
+with flood data example</a>. Journal of Statistics and Management
+Systems, 20(2), pp.197-233.</p>
+<div id="abstract" class="section level2">
+<h2>Abstract</h2>
+<p>This article addresses various properties and different methods of
+estimation of the parameters of exponentiated Gumbel distribution from
+the frequentist point of view.</p>
+<p>Various mathematical and statistical properties of the exponentiated
+Gumbel distribution, such as quantiles, moments, conditional moments,
+hazard rate function, mean residual lifetime, mean deviation about mean
+and median, entropies and order statistics, are derived.</p>
+<p>We briefly describe different frequentist approaches, namely, maximum
+likelihood estimation, method of moments, percentile-based estimation
+method, least squares estimation, method of maximum product of spacings,
+method of Cramér-von-Mises and methods based on Anderson-Darling
+statistic.</p>
+<p>Monte Carlo simulations are performed to compare the performance of
+the estimation methods for small and large samples.</p>
+<p>The application of the model is studied using a flood data example.
+Bootstrap method was used to obtain bias and standard error of the
+estimates as well as the percentile confidence intervals.</p>
+<p>Further, confidence regions for the parameters are obtained using
+likelihood ratio based method. Finally, the concept of return period is
+used to predict the occurrence of flood in the future.</p>
+</div>
+<div id="download-the-paper" class="section level2">
+<h2>Download the paper</h2>
 <p>The paper can be freely downloaded from <a href="https://www.researchgate.net/profile/Sanku-Dey/publication/313965705_Two_Parameter_Exponentiated_Gumbel_Distribution_Properties_and_Estimation_with_Flood_Data/links/58fb79b6aca2723d79d841bc/Two-Parameter-Exponentiated-Gumbel-Distribution-Properties-and-Estimation-with-Flood-Data.pdf">Researchgate</a></p>
-<div id="whats-available" class="section level2">
-<h2>What’s Available</h2>
+</div>
+<div id="whats-in-this-repository" class="section level2">
+<h2>What’s in this Repository</h2>
 <ul>
-<li><code>exGubmel_core_functions.R</code>: <a href="https://github.com/raheems/expgumbel/blob/main/exGumbel_core_functions.R">Core
-functions for simulating from Expentiated Gubmel distribution</a></li>
+<li><p><code>expGubmel_core_functions.R</code>: <a href="https://github.com/raheems/expgumbel/blob/main/expGumbel_core_functions.R">Core
+functions for parameter estimation in Exponentiated Gubmel
+distribution</a></p>
+<ul>
+<li><p>Random number generation from EG distribution (includes density,
+distribution, quantilie, hazard functions)</p></li>
+<li><p>Frechet Distribution</p></li>
+<li><p>Generalized Extremevalue Distribution</p></li>
+<li><p>Maximum Likelihood Estimation (MLE)</p></li>
+<li><p>Least squares estimation (LSE)</p></li>
+<li><p>Weighted Least Squared Estimation (WLSE)</p></li>
+<li><p>Percentile Estimation (PCE)</p></li>
+<li><p>Method of Maximum Product Spacing (MPS)</p></li>
+<li><p>Cramer von Mises Estimator (CVM)</p></li>
+<li><p>Anderson Darling Estimator (AD)</p></li>
+<li><p>Right-tailed Anderson Darling Estimator</p></li>
+<li><p>Method of Moment Estimator (MME)</p></li>
+<li><p>Issues with tied cases</p></li>
+</ul></li>
+<li><p><code>expGubmel_simulation.R</code>: <a href="https://github.com/raheems/expgumbel/blob/main/expGumbel_simulation.R">Monte
+Carlo Simulation Experiment</a></p>
+<ul>
+<li>includes core functions to simulation</li>
+<li>summarizing the simulation results</li>
+</ul></li>
 </ul>
 </div>
 <div id="reference" class="section level2">
