@@ -8,9 +8,9 @@ The paper can be freely downloaded from [Researchgate](https://www.researchgate.
 
 ## What's Available
 
-- `exGubmel_core_functions.R`: [Core functions for simulating from Expentiated Gubmel distribution](https://github.com/raheems/expgumbel/blob/main/exGumbel_core_functions.R)
+- `expGubmel_core_functions.R`: [Core functions for simulating from Expentiated Gubmel distribution](https://github.com/raheems/expgumbel/blob/main/expGumbel_core_functions.R)
 
-- `exGubmel_simulation.R`: [Monte Carlo Simulation Experiment](https://github.com/raheems/expgumbel/blob/main/exGumbel_simulation.R)
+- `expGubmel_simulation.R`: [Monte Carlo Simulation Experiment](https://github.com/raheems/expgumbel/blob/main/expGumbel_simulation.R)
 
 
 ## Reference
