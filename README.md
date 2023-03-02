@@ -1,6 +1,4 @@
-# expgumbel
-
-This is a code-repository for the following paper **Two parameter exponentiated Gumbel distribution: properties and estimation with flood data example**
+# expgumbel - Two parameter exponentiated Gumbel distribution: properties and estimation with flood data example
 
 __Maintainer__: Enayetur Raheem
 
