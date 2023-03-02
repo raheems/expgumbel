@@ -10,7 +10,25 @@ The paper can be freely downloaded from [Researchgate](https://www.researchgate.
 
 - `expGubmel_core_functions.R`: [Core functions for simulating from Expentiated Gubmel distribution](https://github.com/raheems/expgumbel/blob/main/expGumbel_core_functions.R)
 
+  - Random number generation from EG distribution (includes density, distribution, quantilie, hazard functions)
+  
+  - Frechet Distribution
+  - Generalized Extremevalue Distribution
+  - Maximum Likelihood Estimation (MLE)
+  - Least squares estimation (LSE)
+  - Weighted Least Squared Estimation (WLSE)
+  - Percentile Estimation (PCE)
+  - Method of Maximum Product Spacing (MPS)
+  - Cramer von Mises Estimator (CVM)
+  - Anderson Darling Estimator (AD)
+  - Right-tailed Anderson Darling Estimator
+  - Method of Moment Estimator (MME)
+  - Issues with tied cases
+  
 - `expGubmel_simulation.R`: [Monte Carlo Simulation Experiment](https://github.com/raheems/expgumbel/blob/main/expGumbel_simulation.R)
+
+  - includes core functions to simulation
+  - summarizing the simulation results
 
 
 ## Reference
